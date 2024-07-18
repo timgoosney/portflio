@@ -8,4 +8,4 @@ This repository is a compilation of all projects that I have completed in the 2 
 2. Currently finishing up making a dice using CAD software
 3. Python calculator still has some small bugs that need to be fixed to prevent human error.
 
-![cat photo]()
+![My dog! ](https://github.com/timgoosney/portfolio/blob/main/dog%20photo.jpg)
